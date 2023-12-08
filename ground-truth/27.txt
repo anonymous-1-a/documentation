@@ -1,0 +1,1 @@
+ Firstly, activity a_1 is performed, followed by activity a_2. Subsequently, activity a_10 is executed, and then, activity a_7 is carried out. In the event that condition c1 is met, activity a_8 is executed. However, if condition c1 is not satisfied, activity a_9 will be executed instead.

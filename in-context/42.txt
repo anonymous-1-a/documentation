@@ -1,0 +1,1 @@
+Activity a_1 is carried out if condition c1 is met; otherwise, activity a_2 is carried out.

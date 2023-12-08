@@ -1,0 +1,1 @@
+If condition c1 is met, check if condition c3 is met. If it is, perform activity a_2. Then, continue evaluating condition c3 in a loop until it is no longer satisfied. If condition c1 is not met, check if condition c2 is met. If it is, perform activity a_3. If condition c2 is not met, execute activity a_4.

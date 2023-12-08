@@ -1,0 +1,2 @@
+If condition c1 is fulfilled, activity a_1 will be executed.
+Otherwise, if c1 is not fulfilled, activity a_2 will be executed, but only if condition c2 is met. If c2 is not met, the process will proceed with four simultaneous steps: executing activities a_3, a_4, a_5, and a_6. Once these steps are completed, activity a_7 will be executed, followed by activity a_8.

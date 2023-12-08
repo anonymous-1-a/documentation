@@ -1,0 +1,7 @@
+Activity a_1 will be executed concurrently with the following activities:
+1. Determine whether condition c1 is met.
+2. If condition c1 is met, perform the following activities:
+   a. Carry out activity a_4.
+   b. After completing activity a_4, execute activity a_5.
+3. After executing the above activities, return to continue to determine whether condition c1 is satisfied, and loop this process until condition c1 is not satisfied.
+4. After the loop process is finished, execute activity a_6.

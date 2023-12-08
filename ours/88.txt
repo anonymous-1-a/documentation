@@ -1,0 +1,1 @@
+If condition c1 is satisfied, perform activity a_1. If condition c1 is not satisfied, check if condition c2 is met. If condition c2 is met, execute activity a_2. If condition c2 is not met, evaluate if condition c3 is satisfied. If condition c3 is satisfied, perform activity a_3. If condition c3 is not satisfied, execute activity a_4. Additionally, execute activity a_5.

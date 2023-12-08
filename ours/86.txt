@@ -1,0 +1,9 @@
+There are four tasks that will be completed concurrently:
+
+1. Determine whether condition c3 is met. If condition c3 is met, both activity a_2 and activity a_3 will take place simultaneously. After the above activities are completed, return to continue to determine whether condition c3 is satisfied, and loop this process until condition c3 is not satisfied.
+
+2. First, carry out activity a_4. If condition c1 is met, start with activity a_5. Once a_5 is finished, proceed to activity a_6. Finally, perform activity a_7. If condition c1 is not met, both activity a_8 and a_9 will be carried out concurrently. Regardless of the situation, activity a_10 must be completed later.
+
+3. Execute activity a_11.
+
+4. If condition c2 is satisfied, perform activity a_12. If condition c2 is not satisfied, execute activity a_13.

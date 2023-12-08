@@ -1,0 +1,1 @@
+First execute activity a_1, then a_2. If condition c1 is met, execute activity a_3. If condition c1 is not met, execute activity a_4.

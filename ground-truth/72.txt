@@ -1,0 +1,4 @@
+First, two steps will occur simultaneously.
+1. Execute activity a_1.
+2. Check whether condition c1 is satisfied. If c1 is met, activity a_2 will be executed; otherwise, activity a_3 will be executed.
+After these two parallel steps are completed, activity a_4 will be performed, followed by activity a_5. If condition c2 is fulfilled, determine whether condition c4 is met. If condition c4 is met, execute activity a_7. Then determine once again whether condition c4 is met. Cycle this process until condition c4 is not met. However, if c2 is not satisfied, activities a_8 and a_9 will be executed sequentially, starting with a_8 and then proceeding to a_9. Lastly, determine whether condition c3 is met. If condition c3 is met, execute activity a_11. Then determine once again whether condition c3 is met. Cycle this process until condition c3 is not met.

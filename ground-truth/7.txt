@@ -1,0 +1,3 @@
+Two steps will be performed simultaneously.
+The first step involves executing activity a_1.
+In the second step, first determine whether condition c3 is met and execute activity a6. After executing a6, continue to determine whether condition c3 is satisfied. This process is looped until condition c3 is not satisfied.

@@ -1,0 +1,1 @@
+If condition c1 is fulfilled, activity a_1 will only be carried out if condition c2 is met; otherwise, activity a_2 will be executed instead. Conversely, if condition c1 is not fulfilled, activity a_3 will be executed.

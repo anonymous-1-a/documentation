@@ -1,0 +1,7 @@
+The following five steps will be executed simultaneously:
+1. Execute activity a_1.
+2. Determine whether condition c2 is met. If condition c2 is met, execute activity a_3. If condition c2 is not met, proceed to the next steps.
+3. If condition c1 is met, execute activity a_4, then execute activity a_5.
+4. Execute activity a_6.
+5. Execute activity a_7.
+6. Execute activity a_8.

@@ -1,0 +1,6 @@
+The following steps will be carried out in a specific order.
+1. Do activity a_31.
+2. Execute activity a_32.
+3. Carry out activity a_21.
+4. There is a conditional step where if condition c3 is met, activity a_22 will be executed. However, if condition c3 is not met, activity a_23 will be executed instead.
+5. There is another conditional step where if condition c4 is met, two activities will be performed in a specific order. Firstly, activity a_24 will be executed, followed by activity a_25. However, if condition c4 is not met, the process will proceed differently. Firstly, the system will check if condition c5 is fulfilled. If it is, activity a_26 will be carried out. If not, activity a_27 will be executed instead. Secondly, activity a_28 will be executed. Lastly, activity a_33 will be executed.

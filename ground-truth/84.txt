@@ -1,0 +1,7 @@
+ First, activity a_1 will be executed. Then, determine whether condition c4 is met, and if so, proceed to activity a_6, and then continue to determine condition c4. Repeat these two steps and end when condition c4 is not met.
+ After the loop, four steps will be carried out simultaneously.
+ 1. Activity a_7 is executed first, then a_8. If condition c2 is satisfied, activity a_9 is executed; otherwise, activity a_10.
+ 2. Execute activity a_11.
+ 3. Execute activity a_12.
+ 4. Execute activity a_13.
+ When these parallel tasks are finished, determine whether condition c3 is satisfied. If condition c3 is satisfied, perform activity a_14; otherwise, perform activity a_15.

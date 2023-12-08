@@ -1,0 +1,5 @@
+First, execute activity a_1. After that, determine whether condition c4 is met. If condition c4 is met, execute activity a_6. Then continue to judge condition c4, loop this process, and end when condition c4 is not satisfied. Following that, the following four tasks will be completed concurrently:
+1. First, carry out activity a_7. After completing activity a_7, execute activity a_8. If condition c2 is satisfied, perform activity a_9. If condition c2 is not satisfied, execute activity a_10.
+2. Execute activity a_11.
+3. Execute activity a_12.
+4. Execute activity a_13. After these parallel tasks have been accomplished, if condition c3 is satisfied, perform activity a_14. If condition c3 is not satisfied, execute activity a_15.

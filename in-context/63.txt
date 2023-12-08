@@ -1,0 +1,1 @@
+Determine whether condition c2 is satisfied. If so, perform the following steps: Judge condition c1. If condition c1 is met, execute activity a_12. Then simultaneously execute activities a_13 and a_19. If condition c1 is not met, only execute activities a_13 and a_19. Determine again whether condition c2 is satisfied. Loop this process and stop when c2 is not satisfied.

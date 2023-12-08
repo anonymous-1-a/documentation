@@ -1,0 +1,5 @@
+This process consists of four simultaneous steps.
+1. Determine whether condition c3 is met. If condition c3 is met, execute activity a4. Then determine once again whether condition c3 is met. Cycle this process until condition c3 is not met.
+2. Activity a_13 is performed.
+3. Activity a_11 is performed.
+4. Activity a_12 is performed.

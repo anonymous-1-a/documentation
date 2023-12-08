@@ -1,0 +1,5 @@
+There are 4 steps that will be carried out at the same time.
+The first step is to execute activity a_1.
+The second step involves checking if condition c1 is met. If it is, activity a_2 will be executed. If not, two steps will be taken simultaneously. 1. execute activity a_3. 2. Implement activity a_4 if condition c2 is met; otherwise, implement activity a_5.
+The third step is to execute activity a_6.
+The fourth step involves determining whether condition c4 is satisfied, and if so, performing the following activities: Firstly, activities a_11, a_12, and a_13 will be executed simultaneously. Secondly, determine whether condition c5 is met, and if so, proceed to activity a_15, and then continue to determine condition c5. This process is looped and ends when condition c5 is not satisfied. Thirdly, activity a_16 will be executed. Fourthly, activities a_17, a_18, a_19, a_20, and a_21 will be executed simultaneously. Then return to continue judging condition c4. Repeat this process and end when condition c4 is not satisfied.

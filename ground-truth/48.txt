@@ -1,0 +1,2 @@
+The progression of the process depends on the fulfillment of condition c1. In the event that condition c1 is satisfied, activity a_1 will be executed accordingly. However, if condition c1 is not met, the process will proceed differently.
+Firstly, Check to see if condition c2 is met. If condition c2 is satisfied, perform activity a_6. Then, check again to see if condition c2 is met. This process should be repeated until condition c2 is not met. After condition c2 is not met, activity a_7 will be carried out, followed by activity a_8.

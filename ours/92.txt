@@ -1,0 +1,9 @@
+The following tasks will be completed concurrently:
+1. First, carry out activity a_1. After completing activity a_1, execute activity a_2. Then carry out activity a_3. Finally, execute activity a_4.
+2. Execute activity a_5.
+3. If condition c1 is satisfied, perform activity a_6. If condition c1 is not satisfied, execute activity a_7.
+4. Execute activity a_8.
+
+After these parallel tasks have been accomplished, if condition c2 is met, then if condition c3 is met, perform activity a_9. If condition c3 is not met, execute activity a_10. If condition c2 is not met, execute activity a_11.
+
+In addition, execute activity a_12, a_13, a_14, and a_15 will all take place at the same time.

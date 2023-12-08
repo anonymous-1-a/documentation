@@ -1,0 +1,6 @@
+Determine whether condition c3 is met. If so, perform the following steps: 
+1. Execute activity a_9. 
+2. Execute activity a_10. 
+3. Determine whether condition c4 is met. If condition c4 is met, execute activity a_13. 
+4. Execute activity a_14. 
+5. Execute activity a_15.

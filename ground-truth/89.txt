@@ -1,0 +1,3 @@
+1. If condition c1 is met, activity a_1 will be executed only if condition c2 is also met. However, if condition c2 is not met, then activity a_2 will be executed instead. If condition c1 is not fulfilled, then activity a_3 will be executed.
+2. Two steps will be carried out simultaneously. The first step involves executing activity a_4. The second step involves checking if condition c3 is met. If it is met, activity a_5 will be executed. If it is not met, activity a_6 will be executed instead.
+3. Activity a_7 will be executed.

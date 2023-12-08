@@ -1,0 +1,3 @@
+Perform the following two steps simultaneously:
+1. If condition c1 is met, execute activity a_1. If condition c1 is not met, execute activity a_2.
+2. Determine whether condition c2 is met. If condition c2 is met, execute activities a_4, a_11, a_12, a_9, and a_10 simultaneously. After executing these activities, return to the judgment of condition c2. This process is looped until condition c2 is not satisfied and then stops.

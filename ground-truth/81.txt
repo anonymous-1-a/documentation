@@ -1,0 +1,6 @@
+The following 5 steps will be carried out at the same time:
+Step 1: If condition c1 is met, determine whether condition c6 is met. If so, perform activities a_3 and a_4 at the same time, and then continue to determine condition c6. Repeat these two steps and end when condition c6 is not met. However, if c1 is not met, simply execute activity a_5.
+Step 2: Execute activity a_6.
+Step 3: Execute activity a_23.
+Step 4: Execute activity a_10.
+Step 5: Determine whether condition c5 is satisfied, and if so, perform the following activities: Determine whether condition c7 is met, and if so, proceed to activity a_22, and then continue to determine condition c7. Repeat these two steps and end when condition c7 is not met. Then return to continue judging condition c5. Repeat this process and end when condition c5 is not satisfied.

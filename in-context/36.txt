@@ -1,0 +1,9 @@
+Firstly, determine whether condition c1 is met. If so, execute the following activities in sequence:
+1. Execute activity a_2.
+2. Perform the following five steps simultaneously:
+   a. Execute activity a_3.
+   b. Execute activity a_4.
+   c. Execute activity a_5.
+   d. Execute activity a_6.
+   e. Execute activity a_7.
+After completing the above activities, execute activity a_8, then a_9, and finally a_10.

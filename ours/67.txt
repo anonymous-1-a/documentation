@@ -1,0 +1,5 @@
+Determine whether condition c1 is met. If condition c1 is met, the following two tasks will be completed concurrently: 
+1. First, carry out activity a_2. After completing activity a_2, execute activity a_3.
+2. Execute activity a_4. 
+
+After completing the above activities, return to continue to determine whether condition c1 is satisfied, and loop this process until condition c1 is not satisfied.

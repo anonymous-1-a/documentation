@@ -1,0 +1,4 @@
+The following tasks will be completed concurrently:
+1. Execute activity a_1.
+2. Execute activity a_2.
+3. If condition c1 is met, then if condition c2 is met, perform activity a_3. If condition c2 is not met, activities a_4, a_5, a_6, a_7, and a_8 will all be executed concurrently. If condition c1 is not met, execute activity a_9.

@@ -1,0 +1,4 @@
+The following two tasks will be performed simultaneously:
+1. Execute activity a_1.
+2. Check to see if condition c1 is met. If condition c1 is met, carry out the following actions: 1. Complete activity a_4. 2. Following the completion of activity a_4, carry out activity a_5. Following completion of the preceding tasks, return to continue determining whether condition c1 is satisfied, and repeat this process until condition c1 is not satisfied. After the loop process is complete, perform activity a_6.
+

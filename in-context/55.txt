@@ -1,0 +1,1 @@
+Determine whether condition c2 is satisfied. If so, execute the following activities: First, execute activity a_2. Then, determine whether condition c3 is satisfied. If condition c3 is met, execute activity a_4. If condition c3 is not met, execute activity a_5. If condition c2 is not satisfied, the process ends.

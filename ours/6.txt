@@ -1,0 +1,1 @@
+Determine whether condition c1 is met, and if so, perform the following activities: 1. Execute activity a_2. 2. Execute activity a_3 simultaneously. After executing the above activities, continue to judge condition c1 until condition c1 is not satisfied.

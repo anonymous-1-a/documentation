@@ -1,0 +1,3 @@
+There are two tasks that will be completed concurrently. 
+1. If condition c1 is satisfied, perform activity a_1. If condition c1 is not satisfied, execute activity a_2.
+2. Execute activity a_3.

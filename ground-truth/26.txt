@@ -1,0 +1,6 @@
+The process involves five simultaneous steps that need to be executed.
+In the first step, activity a_1 is performed.
+In the second step, check to see whether condition c2 is satisfied. If condition c2 is satisfied, carry out the following actions: If condition c1 is met, go to activity a_3. If criterion c1 is not met, begin with action a_4. After completing action a_4, move on to activity a_5. Return to determining if condition c2 is fulfilled after performing the preceding tasks, and repeat this procedure until condition c2 is not satisfied.
+In the third step, activity a_6 is performed as per the defined procedure.
+In the fourth step, activity a_7 is carried out to ensure the completion of the required tasks.
+The fifth step involves executing activity a_8.

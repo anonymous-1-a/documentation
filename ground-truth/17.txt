@@ -1,0 +1,1 @@
+The process will proceed as follows: First, activity a_21 will be executed, followed by activity a_22 and then activity a_11. After that, determine whether condition c2 is met and, if so, do activity a_20. Then, check again to see if condition c2 is met. The above procedure should be repeated until condition c2 is not met.

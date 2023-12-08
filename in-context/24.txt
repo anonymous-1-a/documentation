@@ -1,0 +1,1 @@
+Determine whether condition c3 is met and execute activities a_4, a_17, a_14, and a_15 in sequence. After executing all activities, return to the judgment of condition c3. This process is looped until condition c3 is not satisfied and then stops.

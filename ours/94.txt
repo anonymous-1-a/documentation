@@ -1,0 +1,26 @@
+To explain the given input in natural language, we can break it down into smaller parts:
+
+1. Determine whether condition c3 is met.
+2. If condition c3 is met, determine whether condition c4 is met.
+3. If condition c4 is met, execute activity a_7.
+4. After executing activity a_7, return to continue determining whether condition c4 is satisfied.
+5. Loop this process until condition c4 is not satisfied.
+6. After the above activity is completed, return to continue determining whether condition c3 is satisfied.
+7. Loop this process until condition c3 is not satisfied.
+
+Then, execute activity a_8.
+
+Next, there are two parallel tasks that will be carried out concurrently:
+
+1. Determine whether condition c5 is met.
+2. If condition c5 is met, execute activity a_10.
+3. After executing activity a_10, return to continue determining whether condition c5 is satisfied.
+4. Loop this process until condition c5 is not satisfied.
+
+And,
+
+1. If condition c2 is satisfied, perform activity a_11.
+2. If condition c2 is not satisfied, execute activity a_12.
+3. Regardless of the situation, activities a_13, a_14, a_15, a_16, and a_17 will all take place at the same time.
+
+I hope this explanation helps!

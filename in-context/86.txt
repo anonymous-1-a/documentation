@@ -1,0 +1,5 @@
+Perform the following four steps simultaneously:
+1. Determine whether condition c3 is met. If so, execute activities a_2 and a_3 simultaneously.
+2. Execute activity a_4.
+3. If condition c1 is met, execute activities a_5, a_6, and a_7 simultaneously. If condition c1 is not met, execute activities a_8 and a_9 simultaneously.
+4. Execute activities a_10, a_11, and a_12 if condition c2 is met. Otherwise, execute activity a_13.

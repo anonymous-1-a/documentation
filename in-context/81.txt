@@ -1,0 +1,6 @@
+The following five steps will be executed simultaneously:
+1. If condition c1 is met, enter a loop. Determine whether condition c6 is met. If condition c6 is met, execute activities a_3 and a_4 simultaneously. Then judge condition c6 again. The loop ends when condition c6 is not satisfied. If condition c1 is not met, proceed to activity a_5.
+2. Execute activity a_6.
+3. Execute activity a_23.
+4. Execute activity a_10.
+5. Determine whether condition c5 is met. If condition c5 is met, enter a loop. Determine whether condition c7 is met. If condition c7 is met, execute activity a_22. The loop ends when condition c7 is not satisfied. If condition c5 is not met, proceed to the next steps.

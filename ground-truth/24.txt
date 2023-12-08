@@ -1,0 +1,1 @@
+Check to see whether condition c3 is satisfied. If condition c3 is satisfied, do activities a_4, a_17, a_14, and a_15 in that order. Then, check again to see whether condition c3 is satisfied. This method should be repeated until condition c3 is not satisfied.

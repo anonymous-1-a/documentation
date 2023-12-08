@@ -1,0 +1,1 @@
+If condition c1 is met, activity a_1 will be executed. However, if c1 does not meet the requirement for activities a2 and a3 to be executed simultaneously.

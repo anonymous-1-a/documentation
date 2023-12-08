@@ -1,0 +1,1 @@
+If condition c1 is met, then the activities will be carried out in a specific order. Firstly, activity a_1 will be executed, followed by activity a_2. However, if condition c1 is not met, then activity a_3 will be executed.

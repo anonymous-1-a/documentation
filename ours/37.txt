@@ -1,0 +1,1 @@
+If condition c1 is satisfied, perform activity a_1. If condition c1 is not satisfied, start with activity a_14. After completing activity a_14, execute activity a_13.

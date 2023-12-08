@@ -1,0 +1,4 @@
+Perform the following four steps simultaneously:
+1. If condition c1 is met, execute activity a_1. If condition c1 is not met, perform the following steps: If condition c2 is met, determine whether condition c6 is met. If condition c6 is satisfied, execute activity a_3. If condition c6 is not satisfied, perform activities a_4, a_5, a_6, and a_7 simultaneously. Determine condition c2 again. The loop ends when condition c2 is not satisfied.
+2. Execute activity a_8.
+3. Determine whether condition c4 is met. If it is met, perform the following steps: Determine whether condition c5 is met. If it is met, execute activity a_16. If it is not met, continue to determine whether condition c4 is satisfied. Loop this process and stop when c4 is not satisfied.

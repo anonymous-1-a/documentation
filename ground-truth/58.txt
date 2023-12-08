@@ -1,0 +1,7 @@
+Check to see if condition c3 is satisfied. If c3 is true, carry out the following actions: 
+1. Complete task a_5.
+2. If condition c2 is met, carry out activity a_6; otherwise, see if condition c4 is satisfied. Once activity a_8 has been completed, go back and continue determining whether condition c4 has been satisfied. Continue doing this until condition c4 is not met.
+3. Activity a_18 must be finished later.
+4. Execute activity a_16 after finishing activity a_18.
+5. After that, do action a_17.
+Return to continue assessing whether condition c3 is satisfied when the aforementioned tasks are finished, and repeat this process until condition c3 is not satisfied.

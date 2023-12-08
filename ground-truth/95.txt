@@ -1,0 +1,3 @@
+The process will proceed as follows:
+Firstly, determine whether condition c2 is met. If condition c2 is met, perform the following activities: Determine whether condition c4 is met. If the condition is met, execute activity a_3, and then continue to determine condition c4. Repeat this process and end when condition c4 is not satisfied. Then return to continue judging condition c2. Repeat this process and end when condition c2 is not satisfied.
+Secondly, determine whether condition c3 is met. If the condition is met, execute activity a_11, and then continue to determine condition c3. Repeat this process and end when condition c3 is not satisfied.

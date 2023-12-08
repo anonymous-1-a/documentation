@@ -1,0 +1,4 @@
+First execute activity a_1, then a_2. If condition c1 is met, perform the following two steps simultaneously: 
+1. Execute activities a_3, a_28, a_7, and a_29 simultaneously. 
+2. Execute activities a_10, a_30, a_13, and a_31 simultaneously. 
+Finally, execute activity a_27.

@@ -1,0 +1,1 @@
+The following two steps are carried out simultaneously, and the first step is to sequentially execute activities a_1, a_2, and a_3. The second step is to execute activity a_4, followed by a_5.

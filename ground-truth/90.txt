@@ -1,0 +1,7 @@
+The following steps will be carried out in order:
+First, activity a_1 will be executed.
+Then, if condition c1 is fulfilled, we will check if condition c2 is also met. If it is, we will perform five steps at the same time, which involve executing activities a_2, a_3, a_4, a_5, and a_6. However, if condition c2 is not met, we will determine whether condition c4 is satisfied. If condition c4 is satisfied, execute activity a_8, and then continue to judge condition c4. This process is looped and ends when condition c4 is not satisfied. If condition c1 is not fulfilled, we will perform two actions simultaneously:
+    1. Execute activity a_27.
+    2. The second action is to determine whether condition c5 is satisfied. If condition c5 is satisfied, execute activity a_14, and then continue to judge condition c5. Repeat this process and end when condition c5 is not satisfied.
+
+Regardless of whether c1 is satisfied or not, activity a_15, a_16, and a_26 will be carried out after the execution.

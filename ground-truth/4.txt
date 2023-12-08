@@ -1,0 +1,3 @@
+There are four steps that will happen at the same time.
+The first step is to execute activity a_1, the second step is to execute activity a_2, and the third step is to execute activity a_3.
+The fourth step will start with executing activity a_4. Then perform the following two steps simultaneously: 1. Execute activity a_5. 2. Execute activities a_6, a_7, a_8, a_9, and a_10 in sequence.

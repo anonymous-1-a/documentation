@@ -1,0 +1,1 @@
+Activities a_1 and a_2 are executed simultaneously. Then, determine whether condition c1 is met and execute activity a_4. After executing activity a_4, continue with activities a_5 and a_6.

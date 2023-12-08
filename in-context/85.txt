@@ -1,0 +1,13 @@
+The following steps will be executed simultaneously:
+1. Execute activity a_1.
+2. If condition c1 is met, execute activity a_2. If condition c1 is not met, proceed to the next steps.
+3. Perform the following steps simultaneously:
+   a. Execute activity a_3.
+   b. If condition c2 is met, execute activity a_4. If condition c2 is not met, execute activity a_5.
+4. Execute activity a_6.
+5. Determine whether condition c4 is met. If condition c4 is met, perform the following steps:
+   a. Execute activities a_11, a_12, and a_13 simultaneously.
+   b. Determine whether condition c5 is met. If condition c5 is met, execute activity a_15.
+   c. Execute activity a_16.
+   d. Execute activities a_17, a_18, a_19, a_20, and a_21 simultaneously.
+   e. Return to the judgment of condition c4. This process is looped until condition c4 is not satisfied and then stops.

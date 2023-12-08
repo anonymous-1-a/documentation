@@ -1,0 +1,5 @@
+Determine whether condition c2 is met. If condition c2 is met, perform the following activities: 
+1. If condition c1 is satisfied, perform activity a_12. 
+2. If condition c1 is not satisfied, both activity a_13 and activity a_19 will be carried out concurrently. 
+
+After completing the above activities, return to continue determining whether condition c2 is satisfied, and loop this process until condition c2 is not satisfied.

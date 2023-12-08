@@ -1,0 +1,1 @@
+Determine whether condition c1 is met, and if so, carry out activities a_5, a_15, a_8, and a_16 concurrently. Then determine whether condition c1 is satisfied. This process should be repeated until condition c1 is not met.

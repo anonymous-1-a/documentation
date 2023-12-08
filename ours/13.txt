@@ -1,0 +1,3 @@
+The following two sets of tasks will be completed concurrently:
+1. First, carry out activity a_1. After completing activity a_1, execute activity a_2. Then carry out activity a_3.
+2. First, carry out activity a_4. After completing activity a_4, execute activity a_5.

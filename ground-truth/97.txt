@@ -1,0 +1,6 @@
+The following jobs will be done concurrently:
+1. Carry out activity a_23.
+2. Carry out activity a_24.
+3. Determine whether condition c1 is satisfied. If condition c1 is satisfied, perform the following activities: Determine whether condition c2 is met. If condition c2 is met, execute activity a_17, and then continue to determine condition c2. Repeat this process and end when condition c2 is not satisfied. Then return to continue judging condition c1. Repeat this process and end when condition c1 is not satisfied.
+4. Carry out activity a_25.
+5. Carry out activity a_22.

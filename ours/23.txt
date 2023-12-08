@@ -1,0 +1,6 @@
+The following six tasks will be completed concurrently:
+1. Execute activity a_1.
+2. Execute activity a_2.
+3. Determine whether condition c1 is met, and if so, execute activity a_4. After executing activity a_4, return to continue to determine whether condition c1 is satisfied. Loop this process until condition c1 is not satisfied.
+4. Execute activity a_5.
+5. Execute activity a_6.

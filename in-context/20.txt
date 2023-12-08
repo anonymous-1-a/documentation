@@ -1,0 +1,1 @@
+Activities a_10, a_3, and a_11 are executed simultaneously.

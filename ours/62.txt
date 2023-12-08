@@ -1,0 +1,1 @@
+First, carry out activity a_12. After completing activity a_12, execute activity a_9. Then carry out activity a_10. Finally, execute activity a_11.

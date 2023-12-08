@@ -1,0 +1,1 @@
+Check to see if condition c1 is met. If condition c1 is met, carry out the following actions: 1. Complete activity a_2. 2. Complete activity a_3. Return to continue to determine whether condition c1 is satisfied, and loop this process until condition c1 is not satisfied.

@@ -1,0 +1,4 @@
+Determine whether condition c1 is met. If so, perform the following steps simultaneously: 
+1. Execute activity a_2. 
+2. Execute activity a_3. 
+3. Execute activity a_4.

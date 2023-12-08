@@ -1,0 +1,4 @@
+The process will follow the subsequent steps:
+1. Two steps will be executed simultaneously. In the first step, activity a_1 will be carried out. As for the second step, two activities will be performed consecutively with activity a_2 being executed first, followed by activity a_3.
+2. activity a_4 will be executed.
+3. activity a_5.

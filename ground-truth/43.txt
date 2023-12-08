@@ -1,0 +1,3 @@
+The process will follow these steps in order: 
+1. Activity a_1 will be executed. 
+2. If condition c1 is met, activity a_11 will be executed first, followed by activity a_7. If condition c1 is not met, two steps will happen at the same time. The first step is to execute activity a_8, while the second step is to check if condition c2 is satisfied. If it is, activity a_9 will be executed. If not, activity a_10 will be executed instead.

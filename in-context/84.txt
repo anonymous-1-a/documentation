@@ -1,0 +1,4 @@
+First, execute activity a_1. Then, determine whether condition c4 is met. If condition c4 is met, execute activity a_6. After executing activity a_6, return to the judgment of condition c4. This process is looped until condition c4 is not satisfied and then stops. Next, perform the following three steps simultaneously: 
+1. a. Execute activities a_7, a_8, and if condition c2 is met, execute activity a_9. If condition c2 is not met, execute activity a_10.
+2. Execute activities a_11, a_12, and a_13.
+3. If condition c3 is met, execute activity a_14. If condition c3 is not met, execute activity a_15.

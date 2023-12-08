@@ -1,0 +1,7 @@
+Checking to see whether condition c1 is satisfied. If criterion c1 is satisfied, perform the following actions: Check to see whether condition c2 is satisfied. If criterion c2 is satisfied, perform the following actions: Check to see whether condition c3 is satisfied. If criterion c3 is satisfied, carry out the following actions:
+1. Execute activity a_4.
+2. Execute activity a_5.
+3. Execute activity a_6.
+4. Execute activity a_7.
+5. Execute activity a_8.
+After performing the preceding activities, return to continue determining if condition c3 is met, and repeat this procedure until condition c3 is not met. After completing the preceding action, return to assessing if condition c2 is satisfied, and repeat this procedure until condition c2 is not satisfied. After completing the preceding action, return to assessing if condition c1 is satisfied, and repeat this procedure until condition c1 is not satisfied.

@@ -1,0 +1,7 @@
+If condition c1 is met, activity a_1 will be carried out simultaneously with the subsequent task: Assess if condition c4 is met, and if it is, perform activity a_3. Then, continue evaluating condition c4, repeat this process, and terminate when condition c4 is not met. If condition c1 is not met, execute activity a_4. 
+
+In parallel with this, first determine whether condition c3 is met. If condition c3 is met, the following activities will take place simultaneously: a_7, a_8, a_9, a_10, and a_11. After completing these activities, return to continue to determine whether condition c3 is satisfied, and loop this process until condition c3 is not satisfied. After the loop process is finished, execute activity a_12. 
+
+After that, check if condition c2 is satisfied. If condition c2 is satisfied, check if condition c5 is met. If condition c5 is met, perform activity a_14. Then continue evaluating condition c5, repeating this process until condition c5 is not satisfied. If condition c2 is not satisfied, execute activity a_15. 
+
+Regardless of the situation, execute activity a_16. Finally, execute activity a_17.

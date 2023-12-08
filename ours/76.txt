@@ -1,0 +1,8 @@
+If condition c1 is met, the following four tasks will be carried out concurrently:
+1. Perform activity a_1.
+2. First, execute activity a_2. After completing activity a_2, perform activity a_3.
+3. Execute activity a_4.
+4. Execute activity a_5.
+
+If condition c1 is not met, the following actions will be taken:
+If condition c2 is met, perform activity a_6. If condition c2 is not met, start by performing activity a_7. Once activity a_7 is completed, proceed to activity a_8. Regardless of the situation, if condition c3 is met, perform activity a_9. If condition c3 is not met, execute activity a_10.

@@ -1,0 +1,1 @@
+Firstly, if condition c1 is met, activity a_1 will be executed. However, if condition c1 is not met, determine whether condition c2 is met. If condition c2 is met, execute activity a_3. Then determine once again whether condition c2 is met. Cycle this process until condition c2 is not met.

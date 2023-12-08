@@ -1,0 +1,1 @@
+The following five steps will be executed simultaneously: 1. Perform activity a_1; 2. Perform activity a_2; 3. Perform activity a_3; 4. First, execute activity a_4, followed by the simultaneous execution of activities a_5 and a_6; 5. Execute activity a_7.

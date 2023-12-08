@@ -1,0 +1,1 @@
+First, carry out activity a_1. After completing activity a_1, execute activity a_2. If condition c1 is met, activities a_3, a_28, a_7, and a_29 will be carried out simultaneously. If condition c1 is not met, activities a_10, a_30, a_13, and a_31 will be carried out simultaneously. Regardless of the situation, activity a_27 must be completed later.

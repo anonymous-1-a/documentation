@@ -1,0 +1,5 @@
+Determine whether condition c3 is met. If condition c3 is met, the following tasks will be performed at the same time:
+1. Execute activity a_10.
+2. Execute activity a_11 if condition c1 is true. Move on to the further stages if condition c1 is not satisfied. Execute activity a_12 if condition c2 is true. Execute activity a_13 if condition c2 is not satisfied.
+3. Execute activity a_14.
+After completing the above tasks, re-judge whether condition c3 is satisfied, repeat this process, and end when condition c3 is not satisfied.

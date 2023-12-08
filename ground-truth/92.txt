@@ -1,0 +1,7 @@
+The following five steps will be carried out simultaneously:
+1. Four steps are executed simultaneously, which are:
+Execute activities a_1, a_2, a_3, and a_4 sequentially; Execute activity a_5; Execute activity a_6 if the condition c1 is satisfied. Otherwise, execute activity a_7; And execute activity a_8. After the parallel activities are finished, determine whether the conditions c2 and c3 are satisfied, and if they are satisfied at the same time, execute activity a_9. If c2 is satisfied but c3 is not satisfied, then execute activity a_9. If c2 is satisfied but c3 is not satisfied, then activity a_10 is executed; if condition c2 is not satisfied, activity a_11 is executed.
+2. Perform activity a_12.
+3. Complete activity a_13.
+4. Do activity a_14.
+5. Complete activity a_15.

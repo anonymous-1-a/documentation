@@ -1,0 +1,1 @@
+Initially, activity a_1 is performed, followed by activity a_2. Subsequently, a simultaneous execution of two activities takes place. The first activity is a_3, while the second activity is a_4.

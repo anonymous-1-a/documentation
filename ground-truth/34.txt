@@ -1,0 +1,5 @@
+The process consists of four simultaneous steps.
+1. Activity a_1 takes precedence. Subsequently, if condition c1 is satisfied, activity a_2 will be performed only if condition c2 is also fulfilled. However, if c2 is not satisfied, activity a_3 will be carried out instead. Conversely, if condition c1 is not met, activity a_4 will be executed. Ultimately, activity a_5 will be performed to conclude step 1.
+2. Activity a_6 will be undertaken.
+3. activity a_7 will be executed.
+4. activity a_8 will be performed.

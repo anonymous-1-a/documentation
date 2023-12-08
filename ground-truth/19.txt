@@ -1,0 +1,3 @@
+Two steps will be carried out at the same time.
+In the first step, if condition c1 is met, activity a_1 will be executed. However, if condition c1 is not met, activity a_2 will be executed instead.
+In the second step, we need to determine whether condition c2 is met. If condition c2 is met, the following activities will take place simultaneously: a_4, a_11, a_12, a_9, and a_10. After completing these activities, we will return to continue determining whether condition c2 is satisfied, and we will loop this process until condition c2 is not satisfied.

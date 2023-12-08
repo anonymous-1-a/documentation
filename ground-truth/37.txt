@@ -1,0 +1,1 @@
+The process is designed to follow two distinct paths depending on whether condition c1 is fulfilled. If c1 is satisfied, activity a_1 will be executed accordingly. However, if condition c1 is not met, the succeeding activities will be performed in a specified order. Firstly, activity a_14 will be executed, followed by activity a_13 in sequence.

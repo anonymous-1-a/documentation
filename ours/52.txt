@@ -1,0 +1,6 @@
+If condition c1 is met, the following four tasks will be carried out simultaneously:
+1. Perform activity a_1.
+2. Perform activity a_2.
+3. Perform activity a_13.
+4. Check if condition c2 is satisfied. If it is, perform activity a_11. Then continue to evaluate condition c2, repeat this process, and stop when condition c2 is not satisfied. 
+If condition c1 is not met, perform activity a_12.

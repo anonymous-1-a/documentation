@@ -1,0 +1,1 @@
+First execute activity a_1, then a_2, and finally activities a_3 and a_4 simultaneously.

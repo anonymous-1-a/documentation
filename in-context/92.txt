@@ -1,0 +1,14 @@
+Perform the following steps simultaneously:
+1. Execute the following activities in sequence:
+   a. Execute activity a_1.
+   b. Execute activity a_2.
+   c. Execute activity a_3.
+   d. Execute activity a_4.
+   e. Execute activity a_5.
+   f. If condition c1 is met, execute activity a_6. If not met, execute activity a_7.
+   g. Execute activity a_8.
+2. If condition c2 is met, determine whether condition c3 is met. If condition c3 is met, execute activity a_9, then execute activity a_10. If condition c3 is not met, execute activity a_11.
+3. Execute activity a_12.
+4. Execute activity a_13.
+5. Execute activity a_14.
+6. Execute activity a_15.

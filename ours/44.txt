@@ -1,0 +1,1 @@
+If condition c1 is satisfied, perform activity a_1. If condition c1 is not satisfied, both activity a_2 and activity a_3 will be carried out concurrently.

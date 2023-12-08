@@ -1,0 +1,3 @@
+Perform the following two steps simultaneously:
+1. Determine whether condition c2 is satisfied. If so, execute the following activities: Determine whether condition c4 is satisfied. If so, execute activity a_10. After executing activity a_10, continue to determine whether condition c4 is satisfied. Loop this process and stop when c4 is not satisfied. If condition c2 is not satisfied, proceed to the next steps.
+2. Determine whether condition c3 is satisfied. If so, execute the following activities: Execute activity a_15. Then perform the following three activities simultaneously: Execute activity a_16, execute activity a_17, and execute activity a_18.

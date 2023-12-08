@@ -1,0 +1,3 @@
+There are two steps that will occur simultaneously.
+In the first step, the system will check if condition c1 is fulfilled. If it is, activity a_1 will be executed. However, if condition c1 is not satisfied, activity a_2 will be executed instead.
+In the second step, activity a_3 will be executed independently.

@@ -1,0 +1,1 @@
+First execute activity a_21, then a_22, then a_11, and finally determine whether condition c2 is met. If condition c2 is met, execute activity a_20. After executing activity a_20, return to the judgment of condition c2. This process is looped until condition c2 is not satisfied and then stops.

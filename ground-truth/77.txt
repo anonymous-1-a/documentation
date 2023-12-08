@@ -1,0 +1,4 @@
+The system will follow these steps in order:
+firstly, it will execute activity a_1.
+Next, it will check if c1 is fulfilled. If c1 is true, the system will then evaluate whether c2 is met. If c2 is satisfied, a_2 will be executed. However, if c2 is not fulfilled, a_3 will be carried out instead. In the case that c1 is not fulfilled, the system will proceed to check if c3 is satisfied. If c3 is met, a_4 will be executed. On the other hand, if condition c3 is not fulfilled, determine whether condition c4 is met. If condition c4 is met, execute activity a_6. Then determine once again whether condition c4 is met. Cycle this process until condition c4 is not met.
+Regardless of whether condition c1 is met, activity a_7 is executed next. After executing a_7, activity a_8 is executed, and finally activity a_9 is executed.

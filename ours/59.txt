@@ -1,0 +1,4 @@
+Determine whether condition c3 is met. If condition c3 is met, execute activity a_10 concurrently with the following tasks:
+1. If condition c1 is satisfied, perform activity a_11. If condition c1 is not satisfied, check if condition c2 is satisfied. If condition c2 is satisfied, perform activity a_12. If condition c2 is not satisfied, execute activity a_13.
+2. Execute activity a_14.
+After completing the above activities, return to continue determining whether condition c3 is satisfied, and loop this process until condition c3 is not satisfied.

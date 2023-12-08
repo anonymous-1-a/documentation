@@ -1,0 +1,6 @@
+There are five steps that will happen at the same time.
+1. Execute Activity a_1.
+2. Execute Activity a_2.
+3. If condition c1 is satisfied, do activity a_4. Then, check to see if condition c1 is still satisfied. Repeat this method until condition c1 is not fulfilled.
+4. Execute Activity a_5.
+5. Execute Activity a_6.

@@ -1,0 +1,6 @@
+There are five steps that will be carried out at the same time:
+1. Execute activity a_1.
+2. The second step involves checking if condition c1 is met. If it is, then activity a_2 will be executed only if condition c2 is also met. If c2 is not met, a sequence of activities will be executed in the order of a_3, a_4, a_5, a_6, and finally a_7. If c1 is not met, activity a_8 will be executed.
+3. Do activity a_27.
+4. Perform activity a_28.
+5. Execute activity a_26.

@@ -1,0 +1,1 @@
+If condition c1 is met, determine whether condition c3 is met. If condition c3 is met, execute activities a_6 and a_7. If condition c3 is not met, execute activity a_8. If condition c1 is not met, execute activity a_8.

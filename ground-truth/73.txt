@@ -1,0 +1,6 @@
+The following steps will be performed in a specific order. Initially, activity a_1 will be executed, followed by activity a_2. Subsequently, we will concurrently perform five steps.
+1. activity a_3 will be executed, while in the subsequent four steps, activities a_4, a_5, a_6, and a_7 will be executed simultaneously.
+2. If condition c1 is satisfied, activity a_8 will be executed; otherwise, activity a_9 will be executed. Determine whether condition c2 is met. If condition c2 is met, execute activity a_11. Then determine once again whether condition c2 is met. Cycle this process until condition c2 is not met. After c2 is not true, five steps will be executed concurrently, involving activities a_12, a_13, a_14, a_15, and a_16. After the above concurrent activities are executed, activity a_17 is executed, and then activity a_18 is executed.
+3. activity a_19 will be executed.
+4. activity a_20 will be executed.
+5. activity a_21 will be executed.

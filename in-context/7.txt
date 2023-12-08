@@ -1,0 +1,1 @@
+Activities a_1 and a_6 are executed simultaneously.

@@ -1,0 +1,1 @@
+First, carry out activity a_1. After completing activity a_1, execute activity a_2. Activity a_3 and Activity a_4 will both take place at the same time.

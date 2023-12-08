@@ -1,0 +1,5 @@
+First, carry out activity a_1. If requirement c1 is met, start with activity a_17. After completing a_17, perform a_4. If condition c2 is met, execute a_5. If condition c2 is not met, perform a_6. Regardless of the situation, a_7 must be completed later. If requirement c1 is not met, the following four tasks will be executed concurrently:
+1. Check if c4 is met. If c4 is met, perform a_9. After performing a_9, return to check if c4 is still met. Repeat this process until c4 is not met.
+2. If c3 is met, perform a_10. If c3 is not met, execute a_11.
+3. Execute a_12.
+4. Execute a_18.

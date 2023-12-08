@@ -1,0 +1,1 @@
+If condition c1 is met, the first step is to check if condition c2 is satisfied. If it is, perform activity a_3. Then, continue evaluating condition c2 and repeat this process until c2 is no longer satisfied. Once the loop process is completed, execute activity a_4. If condition c1 is not met, perform activity a_5.

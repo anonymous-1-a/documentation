@@ -1,0 +1,5 @@
+The following four tasks will be completed concurrently:
+1. Determine whether condition c3 is satisfied, and if so, execute activity a_4. Then continue to judge condition c3, loop this process, and end when condition c3 is not satisfied.
+2. Execute activity a_13.
+3. Execute activity a_11.
+4. Execute activity a_12.

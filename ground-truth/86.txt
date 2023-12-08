@@ -1,0 +1,5 @@
+There are four steps that will be carried out at the same time.
+1. Determine whether condition c3 is satisfied. If so, do activities a_2 and a_3 at the same time, and then continue to judge condition c3. This process is looped and ends when condition c3 is not satisfied.
+2. Activity a_4 will be executed first. If condition c1 is satisfied, activities a_5, a_6, and a_7 will be performed in order. If c1 is not satisfied, two activities will be carried out at the same time: activity a_8 and activity a_9. Whether condition c1 is satisfied, activity a_10 will be executed.
+3. Activity a_11 will be executed.
+4. If condition c2 is met, activity a_12 will be executed. If c2 is not met, activity a_13 will be executed instead.

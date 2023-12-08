@@ -1,0 +1,12 @@
+Perform the following five steps simultaneously:
+1. Execute activity a_1.
+2. Execute activity a_2.
+3. Execute activity a_3.
+4. Execute activity a_4.
+5. Perform the following four steps simultaneously:
+   a. Execute activity a_5.
+   b. Execute activity a_6.
+   c. Execute activity a_7.
+   d. Execute activity a_8.
+   e. Execute activity a_9.
+   f. Execute activity a_10.

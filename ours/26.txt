@@ -1,0 +1,9 @@
+The following tasks will be completed concurrently:
+1. Execute activity a_1.
+2. Determine whether condition c2 is met. If condition c2 is met, perform the following activities:
+   - If condition c1 is satisfied, perform activity a_3.
+   - If condition c1 is not satisfied, start by doing activity a_4. Once activity a_4 is finished, proceed to activity a_5.
+   After completing the above activities, return to continue determining whether condition c2 is satisfied, and loop this process until condition c2 is not satisfied.
+3. Execute activity a_6.
+4. Execute activity a_7.
+5. Execute activity a_8.

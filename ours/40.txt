@@ -1,0 +1,3 @@
+Activity a_1 will be executed concurrently with the following two activities: 
+1. First, carry out activity a_2.
+2. After completing activity a_2, execute activity a_3. After these parallel tasks have been accomplished, proceed to activity a_4. After completing activity a_4, proceed to activity a_5.

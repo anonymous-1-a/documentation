@@ -1,0 +1,13 @@
+The following tasks will be completed concurrently:
+
+1. Execute activity a_1.
+2. If condition c1 is satisfied, perform activity a_2. If requirement c1 is not met, activity a_3 will be executed concurrently with the following two options:
+   - If condition c2 is satisfied, perform activity a_4.
+   - If condition c2 is not satisfied, execute activity a_5.
+3. Execute activity a_6.
+4. Determine whether condition c4 is met. If condition c4 is met, the following activities will take place simultaneously: activity a_11, activity a_12, and activity a_13.
+   - After these parallel tasks have been completed, determine whether condition c5 is met.
+   - If condition c5 is met, execute activity a_15.
+   - After executing activity a_15, return to continue determining whether condition c5 is satisfied. Loop this process until condition c5 is not satisfied.
+   - Then, execute activity a_16.
+5. After completing activity a_16, the following activities will take place simultaneously: activity a_17, a_18, a_19, a_20, and a_21.

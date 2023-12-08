@@ -1,0 +1,1 @@
+First execute activity a_1, then a_2. After that, determine whether condition c1 is met and execute activity a_4. After executing activity a_4, determine whether condition c2 is met. If condition c2 is met, determine whether condition c3 is met. If condition c3 is met, execute activities a_8 and a_9 simultaneously.

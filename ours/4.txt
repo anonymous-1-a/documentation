@@ -1,0 +1,7 @@
+The following tasks will be completed concurrently:
+1. Execute activity a_1.
+2. Execute activity a_2.
+3. Execute activity a_3.
+4. First, carry out activity a_4. After completing activity a_4, the following tasks will be completed concurrently:
+   - Execute activity a_5.
+   - First, carry out activity a_6. After completing activity a_6, execute activity a_7. Then carry out activity a_8. After completing activity a_8, execute activity a_9. Finally, carry out activity a_10.

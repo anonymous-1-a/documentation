@@ -1,0 +1,7 @@
+If condition c1 is met, execute the following steps:
+1. Perform the following steps simultaneously:
+   a. Determine whether condition c2 is met. If it is met, execute activities a_1, a_2, a_3, and a_4 simultaneously. Then proceed to the next steps.
+   b. Execute activity a_5.
+   c. Execute activity a_6.
+2. Execute activity a_7.
+3. Execute activity a_8.

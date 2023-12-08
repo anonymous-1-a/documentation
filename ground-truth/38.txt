@@ -1,0 +1,1 @@
+Firstly, activity a_13 should be performed. Once activity a_13 has been completed, the next step would be to execute activity a_14. Finally, activity a_12 should be executed to conclude the process.

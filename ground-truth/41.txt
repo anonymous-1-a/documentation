@@ -1,0 +1,3 @@
+The process will adhere to the following sequential steps:
+First and foremost, activity a_1 will be executed, followed promptly by activity a_2. The subsequent step entails the evaluation of condition c1. Should condition c1 be fulfilled, four activities a_3, a_28, a_7, and a_29 will be executed simultaneously. Conversely, if condition c1 is not satisfied, an alternate set of four activities a_10, a_30, a_13, and a_31 will be carried out concurrently.
+Ultimately, the process will be concluded with the execution of activity a_27.

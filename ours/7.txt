@@ -1,0 +1,1 @@
+Activity a_1 will be executed concurrently with the following process: Determine whether condition c3 is met, and if so, execute activity a_6. Then continue to judge condition c3, loop this process, and end when condition c3 is not satisfied.

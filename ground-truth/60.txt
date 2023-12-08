@@ -1,0 +1,3 @@
+Determine whether condition c2 is met. If condition c2 is met, execute the following activities:
+If condition c1 is met, execute activity a_7, otherwise execute activity a_8 first, execute a_9 after executing a_8, and finally execute activity a_10.
+After these activities are executed, continue to judge whether condition c2 is satisfied, loop this process, and stop when c2 is not satisfied.

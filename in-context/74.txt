@@ -1,0 +1,1 @@
+If condition c1 is met, execute activity a_4. If condition c1 is not met, perform the following steps: If condition c3 is met, execute activity a_5. If condition c3 is not met, perform the following steps: Execute activities a_6, a_7, a_8, and a_9 simultaneously. Then execute activities a_10 and a_11 simultaneously.

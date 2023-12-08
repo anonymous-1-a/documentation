@@ -1,0 +1,6 @@
+Perform the following five steps simultaneously:
+Execute activity a_27;
+If condition c1 is met, determine whether condition c3 is met. If condition c3 is met, execute activity a_7. Then determine once again whether condition c3 is met. Cycle this process until condition c3 is not met. If condition c1 is not met, execute activity a8;
+Execute activity a_9;
+Execute activity a_28;
+Execute activity a_26;

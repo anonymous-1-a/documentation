@@ -1,0 +1,4 @@
+The following three steps will be executed simultaneously:
+1. Execute activity a_1.
+2. Execute activity a_2.
+3. If condition c1 is met, determine whether condition c2 is met. If condition c2 is met, execute activity a_3. If condition c2 is not met, execute activities a_4, a_5, a_6, a_7, and a_8 simultaneously. If condition c1 is not met, execute activity a_9.

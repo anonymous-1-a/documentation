@@ -1,0 +1,6 @@
+The following 5 steps will happen at the same time:
+Step 1: If condition c1 is true, both activities a_1 and a_2 will occur simultaneously. If c1 is false, only activity a_3 will happen.
+Step 2: Activity a_4 will be executed.
+Step 3: Activity a_5 will be executed.
+Step 4: If condition c2 is true, activity a_6 will be executed. If c2 is false, activities will happen in a specific order. First, activity a_7 will be executed, followed by activity a_8.
+Step 5: Activity a_9 will be executed.

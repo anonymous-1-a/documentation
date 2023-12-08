@@ -1,0 +1,1 @@
+The four activities a_1, a_2, a_9, and a_8 are executed simultaneously.

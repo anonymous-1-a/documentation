@@ -1,0 +1,4 @@
+The process will unfold in the following manner:
+Firstly, Check to see if condition c1 is met. If so, carry out the following actions:
+    Carry out activity a_2. Following completion of activity a_2, activities a_3, a_4, a_5, a_6, and a_7 will all occur concurrently. Continue to judge condition c1 after completing the preceding tasks until condition c1 is not satisfied.
+ Secondly, activity a_8 will be executed. Moving on to the third step, activity a_9 will be carried out. Lastly, activity a_10 will be executed, concluding the process.

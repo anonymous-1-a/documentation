@@ -1,0 +1,3 @@
+Perform the following two steps simultaneously:
+1. a. Execute activity a_1. b. Execute activity a_2. c. Execute activity a_3.
+2. a. Execute activity a_4. b. Execute activity a_5.
